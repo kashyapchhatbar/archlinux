@@ -1,0 +1,12 @@
+repo/x86_64/
+repo/any/
+repo/i686/
+repo/lastupdate
+repo/pkdinfo.db
+repo/*/*.log
+repo/*/*.zst
+repo/*/*.sig
+repo/*/*.gz
+repo/*/pkg
+repo/*/src
+repo/*/*.deb

@@ -1,0 +1,10 @@
+maintainers:
+- github: kashyapchhatbar
+
+repo_depends:
+- uuid
+
+update_on:
+- source: aur
+- source: manual
+  manual: 1

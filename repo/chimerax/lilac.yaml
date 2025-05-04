@@ -10,7 +10,7 @@ repo_depends:
 
 update_on:
 - source: github
-  github: snakemake/snakemake
+  github: RBVI/ChimeraX
   use_max_tag: true
   prefix: v
 - source: manual

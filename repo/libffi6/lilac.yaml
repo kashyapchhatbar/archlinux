@@ -1,7 +1,0 @@
-maintainers:
-- github: kashyapchhatbar
-
-update_on:
-- source: aur
-- source: manual
-  manual: 1

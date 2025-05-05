@@ -13,5 +13,3 @@ update_on:
   github: shap/shap
   use_max_tag: true
   prefix: v
-- source: manual
-  manual: 1

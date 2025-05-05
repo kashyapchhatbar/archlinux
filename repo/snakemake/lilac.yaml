@@ -26,6 +26,4 @@ update_on:
   github: snakemake/snakemake
   use_max_tag: true
   prefix: v
-- source: manual
-  manual: 1
 

@@ -10,5 +10,3 @@ update_on:
   github: interpretml/slicer
   use_max_tag: true
   prefix: v
-- source: manual
-  manual: 1

@@ -10,5 +10,3 @@ update_on:
   github: RaRe-Technologies/smart_open
   use_max_tag: true
   prefix: v
-- source: manual
-  manual: 1

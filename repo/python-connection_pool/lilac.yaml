@@ -10,5 +10,3 @@ update_on:
   github: zhouyl/ConnectionPool
   use_max_tag: true
   prefix: v
-- source: manual
-  manual: 1

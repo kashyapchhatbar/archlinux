@@ -10,5 +10,3 @@ update_on:
   github: leshchenko1979/reretry
   use_max_tag: true
   prefix: v
-- source: manual
-  manual: 1

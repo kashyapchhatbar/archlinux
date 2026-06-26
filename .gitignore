@@ -12,3 +12,4 @@ repo/*/src
 repo/*/*.deb
 repo/uuid/ossp-uuid/
 repo/uuid/uuid-aarch64.patch
+__pycache__/
